@@ -4,8 +4,8 @@
 <br><br>
 
 <div align="center">
-    <img alt="GitHub Repo Name" src="https://img.shields.io/badge/Regression-of-Used-Car-Prices-color">
-    <img alt="GitHub Author" src="https://img.shields.io/badge/Author-Yash%20K.%20Saini-1D3557">
+    <img alt="GitHub Repo Name" src="https://img.shields.io/badge/Regression_of_Used_Car_Prices-e36414">
+    <img alt="GitHub Author" src="https://img.shields.io/badge/Author-Yash%20K.%20Saini-a8dadc">
     <img alt="GitHub commit-activity" src="https://img.shields.io/github/commit-activity/t/yashksaini-coder/Regression-of-Used-Car-Prices">
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/yashksaini-coder/Regression-of-Used-Car-Prices">
     <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/yashksaini-coder/Regression-of-Used-Car-Prices">
