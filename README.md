@@ -184,8 +184,9 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 ---
 # TODO 📝 
 
-- [X] Use LightGBM model
-- [X] Use XGBoost model
-- [X] Add the project report
-- [X] Add the PDF of the code
-- [X] Add the project conclusion
+- [ ] Perform Quantile Regression
+- [ ] Use LightGBM model
+- [ ] Use XGBoost model
+- [ ] Add the project report
+- [ ] Add the PDF of the code
+- [ ] Add the project conclusion
